@@ -13,7 +13,7 @@
 
 ---
 
-## 🎨 Lab3 Prototype (UI/UX Design)  
+## 🎨 nuCrepes Pancake App Prototype (UI/UX Design)  
 **🔗 [View in Figma](https://www.figma.com/proto/WMvBM0ABOEIiqgV0KSNAim/lab3_213071?node-id=0-1&t=mge048lm3NE73P64-1)**  
 > An interactive UI prototype designed in **Figma**. Focuses on user-friendly navigation and clean aesthetics.
 
