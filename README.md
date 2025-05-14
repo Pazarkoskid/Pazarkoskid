@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Here are a few projects I've worked on recently:
 
 ## 🚤 Labino Boats Website  
 **🌐 [Visit Site](http://www.labinoboats.com)**  
