@@ -27,5 +27,5 @@
 ---
 
 ## 🧒 Child Development Monitoring Web App 
-**🔗 [View code](https://quickquiz.flutterflow.app/start)**  
+**🔗 [View code](https://github.com/Pazarkoskid/timski)**  
 > A web application developed collaboratively by a team to monitor and evaluate child development. Parents can register, add children, and complete questionnaires, while therapists review data, assign scores, and provide feedback. Supports early detection of developmental issues and improves communication between parents and specialists.
