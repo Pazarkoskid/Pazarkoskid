@@ -29,3 +29,9 @@
 ## 🧒 Child Development Monitoring Web App 
 **🔗 [View code](https://github.com/Pazarkoskid/ChildSystem)**  
 > A web application developed collaboratively by a team to monitor and evaluate child development. Parents can register, add children, and complete questionnaires, while therapists review data, assign scores, and provide feedback. Supports early detection of developmental issues and improves communication between parents and specialists.
+
+---
+
+## 🌬️ Air Quality AI – Скопје  
+**🌐 [Visit App](https://air-quality-skopje.onrender.com)** · **🔗 [View Code](https://github.com/Pazarkoskid/Tim20-Air-Quality)**  
+> An intelligent real-time air quality monitoring system for Skopje with AI-powered forecasts up to 72 hours ahead. Built with **Django 5**, **PostgreSQL (Supabase)**, **TensorFlow/Keras BiLSTM**, **Leaflet.js**, and **Chart.js**. Features include an interactive map with 9 monitoring stations, historical data analysis, push/email notifications, CSV/PDF export, and a custom neural network trained on data from 2020 to 2026.
