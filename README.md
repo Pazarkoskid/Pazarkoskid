@@ -34,4 +34,4 @@
 
 ## 🌬️ Air Quality AI – Скопје  
 **🌐 [Visit App](https://air-quality-skopje.onrender.com)** · **🔗 [View Code](https://github.com/Pazarkoskid/Tim20-Air-Quality)**  
-> An intelligent real-time air quality monitoring system for Skopje with AI-powered forecasts up to 72 hours ahead. Built with **Django 5**, **PostgreSQL (Supabase)**, **TensorFlow/Keras BiLSTM**, **Leaflet.js**, and **Chart.js**. Features include an interactive map with 9 monitoring stations, historical data analysis, push/email notifications, CSV/PDF export, and a custom neural network trained on data from 2020 to 2026.
+> An intelligent real-time air quality monitoring system for Skopje with AI-powered forecasts up to 72 hours ahead. Built with **Django 5**, **PostgreSQL (Supabase)**, **TensorFlow/Keras BiLSTM**, **Leaflet.js**, and **Chart.js**. Features include an interactive map with 9 monitoring stations, historical data analysis, notifications, CSV/PDF export, and a custom neural network trained on data from 2020 to 2026.
