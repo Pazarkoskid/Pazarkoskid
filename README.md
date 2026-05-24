@@ -40,6 +40,6 @@
 
 ## 🎓 Fink.io – AI Quiz Platform за ФИНКИ
 **🌐 [Visit App](https://fink-io-frontend.onrender.com)** · **🔗 [View Code](https://github.com/Pazarkoskid/Fink.io)**
-> A full-stack educational platform where students upload учебни материјали (PDF/DOCX/PPTX) and AI generates quality quizzes in Macedonian. Built with **Django 5**, **Django Channels + Daphne** (WebSocket чет), **React 18 + Vite**, **Tailwind CSS**, **PostgreSQL**, and **Google Gemini API** (free tier with multi-model fallback). Features include real-time chat with online presence, friends system with notifications, manual & AI quiz creation, badges system (14 types × 4 tiers), leaderboards, instructor analytics dashboard, role-based permissions (student/instructor/moderator/admin), and dark mode.
+> A full-stack educational platform where students upload learning materials (PDF/DOCX/PPTX) and AI generates quality quizzes in Macedonian. Built with **Django 5**, **Django Channels + Daphne** (WebSocket чет), **React 18 + Vite**, **Tailwind CSS**, **PostgreSQL**, and **Google Gemini API** (free tier with multi-model fallback). Features include real-time chat with online presence, friends system with notifications, manual & AI quiz creation, badges system (14 types × 4 tiers), leaderboards, instructor analytics dashboard, role-based permissions (student/instructor/moderator/admin), and dark mode.
 
 ---
