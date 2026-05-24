@@ -35,3 +35,11 @@
 ## 🌬️ Air Quality AI – Скопје  
 **🌐 [Visit App](https://air-quality-skopje.onrender.com)** · **🔗 [View Code](https://github.com/Pazarkoskid/Tim20-Air-Quality)**  
 > An intelligent real-time air quality monitoring system for Skopje with AI-powered forecasts up to 72 hours ahead. Built with **Django 5**, **PostgreSQL (Supabase)**, **TensorFlow/Keras BiLSTM**, **Leaflet.js**, and **Chart.js**. Features include an interactive map with 9 monitoring stations, historical data analysis, notifications, CSV/PDF export, and a custom neural network trained on data from 2020 to 2026.
+
+---
+
+## 🎓 Fink.io – AI Quiz Platform за ФИНКИ
+**🌐 [Visit App](https://fink-io-frontend.onrender.com)** · **🔗 [View Code](https://github.com/Pazarkoskid/Fink.io)**
+> A full-stack educational platform where students upload учебни материјали (PDF/DOCX/PPTX) and AI generates quality quizzes in Macedonian. Built with **Django 5**, **Django Channels + Daphne** (WebSocket чет), **React 18 + Vite**, **Tailwind CSS**, **PostgreSQL**, and **Google Gemini API** (free tier with multi-model fallback). Features include real-time chat with online presence, friends system with notifications, manual & AI quiz creation, badges system (14 types × 4 tiers), leaderboards, instructor analytics dashboard, role-based permissions (student/instructor/moderator/admin), and dark mode.
+
+---
